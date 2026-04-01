@@ -1,11 +1,6 @@
 # Temperature Control-Enabled Programmable One-Pot Polymerase-Mediated DNA Synthesis
 Temperature Control-Enabled Programmable One-Pot Polymerase-Mediated DNA Synthesis
 
-
-연구자들이 직접 작성한 깃허브(GitHub) 리포지토리처럼 보이도록, 기계적이고 과장된 수식어(예: "Crucial Step", "This module is dedicated to...")를 덜어내고 **실제 생물정보학 연구자가 자신의 파이프라인을 동료에게 설명하는 듯한 간결하고 실용적인 톤**으로 다듬었습니다.
-
-바로 복사해서 사용하시면 됩니다!
-
 ---
 
 # TEMPER: NGS Data Analysis Pipeline
